@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Alison Pongoma 👋 | Customer Support Specialist
 
-<!--
-**AndyAlison/AndyAlison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help clients via CMS Ticketing, Email & Live Chat. I also build clean, responsive websites.
 
-Here are some ideas to get you started:
+- 🔭 Currently building: Bakery E-commerce site + Support Dashboard
+- 🌱 Based in: Cape Town, South Africa - Open to Remote
+- 📫 Reach me: andiswaalisonpongoma@gmail.com | https://www.linkedin.com/in/andiswa-pongoma-997909241/
+- ⚡ Fun fact: Former support pro turned builder - I keep CRM data 100% clean
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+CMS Ticketing | Customer Support | CRM Hygiene | Client Onboarding | Escalation Handling | HTML | CSS | JavaScript | Git
+
+### 📌 Pinned Projects Below - Check them out!
